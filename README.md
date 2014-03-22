@@ -10,6 +10,15 @@ I built this project to continue my exploration of Python, Raspberry Pi, and emb
 
 The project utilizes the Raspberry Pi's GIPO pins to power three LEDs: blue, green, and red. The LEDs indicate process status (blue) and whether a stock portfolio has a total gain (green) or loss (red) on the day.
 
+**Action Shots:**
+
+![My image](green.jpg)
+
+Stocks are up! :)
+
+![My image](red.jpg)
+
+Stocks are down ... :(
 
 **Setup:**
 
